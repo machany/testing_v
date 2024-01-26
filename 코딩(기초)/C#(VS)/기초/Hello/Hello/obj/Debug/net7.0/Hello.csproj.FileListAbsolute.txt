@@ -1,0 +1,14 @@
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\Hello\Hello\bin\Debug\net7.0\Hello.exe
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\Hello\Hello\bin\Debug\net7.0\Hello.deps.json
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\Hello\Hello\bin\Debug\net7.0\Hello.runtimeconfig.json
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\Hello\Hello\bin\Debug\net7.0\Hello.dll
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\Hello\Hello\bin\Debug\net7.0\Hello.pdb
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\Hello\Hello\obj\Debug\net7.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\Hello\Hello\obj\Debug\net7.0\Hello.AssemblyInfoInputs.cache
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\Hello\Hello\obj\Debug\net7.0\Hello.AssemblyInfo.cs
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\Hello\Hello\obj\Debug\net7.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\Hello\Hello\obj\Debug\net7.0\Hello.dll
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\Hello\Hello\obj\Debug\net7.0\refint\Hello.dll
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\Hello\Hello\obj\Debug\net7.0\Hello.pdb
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\Hello\Hello\obj\Debug\net7.0\Hello.genruntimeconfig.cache
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\Hello\Hello\obj\Debug\net7.0\ref\Hello.dll

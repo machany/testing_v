@@ -1,0 +1,14 @@
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\c# step1\c# step1\bin\Debug\net7.0\c# step1.exe
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\c# step1\c# step1\bin\Debug\net7.0\c# step1.deps.json
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\c# step1\c# step1\bin\Debug\net7.0\c# step1.runtimeconfig.json
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\c# step1\c# step1\bin\Debug\net7.0\c# step1.dll
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\c# step1\c# step1\bin\Debug\net7.0\c# step1.pdb
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\c# step1\c# step1\obj\Debug\net7.0\c# step1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\c# step1\c# step1\obj\Debug\net7.0\c# step1.AssemblyInfoInputs.cache
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\c# step1\c# step1\obj\Debug\net7.0\c# step1.AssemblyInfo.cs
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\c# step1\c# step1\obj\Debug\net7.0\c# step1.csproj.CoreCompileInputs.cache
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\c# step1\c# step1\obj\Debug\net7.0\c# step1.dll
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\c# step1\c# step1\obj\Debug\net7.0\refint\c# step1.dll
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\c# step1\c# step1\obj\Debug\net7.0\c# step1.pdb
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\c# step1\c# step1\obj\Debug\net7.0\c# step1.genruntimeconfig.cache
+C:\Users\한미숙\OneDrive\바탕 화면\양\코딩\C#(VS)\기초\c# step1\c# step1\obj\Debug\net7.0\ref\c# step1.dll
