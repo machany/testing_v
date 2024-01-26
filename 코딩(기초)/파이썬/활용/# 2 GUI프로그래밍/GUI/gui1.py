@@ -38,21 +38,21 @@ def 놀라운_동작7():
     놀라운변화 += 1
     if 놀라운변화 == 2:
         레이블1.config(text= "평범한 변화", fg= "black") # 레이블변수이름.config(레이블에 변화줄 내용)
-    elif 놀라운변화 == 3:
-        레이블1.config(text= "놀라운 변화", fg= "green")
-    elif 놀라운변화 == 4:
-        레이블1.config(text= "더 놀라운 변화")
-    elif 놀라운변화 == 5:
-        레이블1.config(text= "엄청나게 놀라운 변화", fg= "blue")
     elif 놀라운변화 == 6:
+        레이블1.config(text= "놀라운 변화", fg= "green")
+    elif 놀라운변화 == 7:
+        레이블1.config(text= "더 놀라운 변화")
+    elif 놀라운변화 == 8:
+        레이블1.config(text= "엄청나게 놀라운 변화", fg= "blue")
+    elif 놀라운변화 == 9:
         레이블1.config(text= "뛰어난 놀라운 변화")
-    elif 7 <= 놀라운변화 <= 10:
-        레이블1.config(text= "전설적인 놀라운 변화", fg= "red")
     elif 10 <= 놀라운변화 <= 15:
-        레이블1.config(text= "신화적인 변화", fg= "yellow")
-    else:
-        레이블1.config(text= "평범해지는 변화", fg= "dark yellow")
-        놀라운변화 = 0
+        레이블1.config(text= "전설적인 놀라운 변화", fg= "yellow")
+    elif 16 <= 놀라운변화 <= 20:
+        레이블1.config(text= "신화적인 변화", fg= "red")
+    elif 놀라운변화 > 20:
+        레이블1.config(text= "평범해지는 변화", fg= "dark red")
+        놀라운변화 = 1
 
 버튼_테스트용7 = Button(창, fg = "black", bg = "green", text= "놀라운 버튼", command= 놀라운_동작7) # command= 함수(딴것도 괜찮지만)
 버튼_테스트용7.pack()
